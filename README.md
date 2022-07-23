@@ -1,5 +1,5 @@
-👋 Hi, I’m Ali Nadi
-Coding makes me happy.
+👋 Hi, I’m Ali Nadi, <br>
+Coding makes me happy. <br>
 Currently working with Javascript and React
 
 <!---
